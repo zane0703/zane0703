@@ -1,5 +1,14 @@
-### Hi there 👋
+### Hi there 👋 I'm Zane
 
+- 🌱 I’m currently learning 
+Android Development
+PYTHON PROGRAMMING FOR IOT
+ENTERPRISE SYSTEMS DEVELOPMENT
+SOFTWARE ENGINEERING PRACTICE
+- 💬 Ask me about
+Java
+JavaScript
+BackEnd
 <!--
 **zane0703/zane0703** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
