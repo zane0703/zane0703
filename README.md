@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Zane
 
-### 🌱 I’m currently having internship
+### 🌱 I’m currently learning 
  - C#
  - Data structures and algorithms
 ### 💬 Ask me about
