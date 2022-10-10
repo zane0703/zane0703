@@ -1,14 +1,13 @@
 # Hi there 👋 I'm Zane
 
 ### 🌱 I’m currently learning 
- - C#
- - Data structures and algorithms
+ - C
+ - Digital Logic
+ - Verilog
 ### 💬 Ask me about
 - Java
 - JavaScript
 - BackEnd
-### 🔭 I’m currently working on
-- Final year project
 <!--
 **zane0703/zane0703** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
