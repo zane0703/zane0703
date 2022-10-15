@@ -25,3 +25,4 @@ Here are some ideas to get you started:
 ### Github Stats
 
 [![Zane's github stats](https://github-readme-stats.vercel.app/api?username=zane0703&show_icons=true&theme=dark&bg_color=000000&border_color=000000&icon_color=3333ff)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zane0703&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
