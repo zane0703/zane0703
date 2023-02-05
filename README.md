@@ -1,11 +1,13 @@
 # Hi there 👋 I'm Zane
 
 ### 🌱 I’m currently learning 
- - C
- - Digital Logic
- - Verilog
+
+- Data Structures and Algorithms
+- ARM Assembly
+
 ### 💬 Ask me about
 - Java
+- C
 - JavaScript
 - BackEnd
 <!--
