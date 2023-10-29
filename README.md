@@ -2,13 +2,17 @@
 
 ### 🌱 I’m currently learning 
 
-- Data Structures and Algorithms
-- ARM Assembly
+- C++
+- Probability and Statistics
+- Algorithm Design and Analysis
 
 ### 💬 Ask me about
 - Java
 - C
+- C⋕
+- Vue.js
 - JavaScript
+- TypeScript
 - BackEnd
 <!--
 **zane0703/zane0703** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
