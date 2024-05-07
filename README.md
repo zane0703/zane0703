@@ -2,13 +2,10 @@
 
 ### 🌱 I’m currently learning 
 
-- C++
-- Probability and Statistics
-- Algorithm Design and Analysis
-
 ### 💬 Ask me about
 - Java
 - C
+- C++
 - C⋕
 - Vue.js
 - JavaScript
